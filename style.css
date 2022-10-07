@@ -1,0 +1,31 @@
+
+.mg-13{
+    margin-left: 13px;
+}
+.border-left{
+    border-left: 1px solid black;
+}
+.pd-10{
+    padding-left:10px ;
+}
+.relative{
+    position: relative;
+}
+.abo{
+    position: absolute;
+}
+.r-70{
+    right: 70px;
+}
+.mgr-37{
+    margin-right: 37px;
+}
+.bg-color-head{
+    background-color: #F5F5F5;
+}
+.l-70{
+    margin-left: 70px;
+}
+.left-70{
+    left:70px;
+}
